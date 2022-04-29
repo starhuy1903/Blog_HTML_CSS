@@ -607,7 +607,7 @@ z-index: 5;
 }
 
 .footer-title{
-    font-size: var(--font-size-md);
+    font-size: var(--font-size-sm);
     text-transform: uppercase;
     margin-bottom: var(--margin-sm);
 }
